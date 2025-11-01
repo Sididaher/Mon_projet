@@ -1,2 +1,2 @@
 # Mon_projet
-this is text repo
+TP complet Git et GitHub
